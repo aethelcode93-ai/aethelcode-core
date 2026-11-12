@@ -5,3 +5,5 @@ Phython Core Project: We use data to automate finance. Our main algorithm analyz
 Portfolio Risk Analyzer: Our secondary algorithm evaluates asset stability. The software tracks market volatility. If the index is lower then five parcent, the computer executes the trade. This data system shields capital distribution.
 Capital Allocation Optimizer:
 Our third algorithm calculates tech budget distribution. The software tracks investment funds. If the technology ratio is safe, the computer approves the money allocation. This clean logic helps modern trading groups protect their capital and run international financial systems automatically.
+Sentiment Analysis Engine:
+Our fourth algorithm scans financial news headlines. The software detects market emotions and investor fear. By converting text into numerical scores, the system predicts sudden price drops. This behavioral data model helps quantitative portfolios stay ahead of human panic.
